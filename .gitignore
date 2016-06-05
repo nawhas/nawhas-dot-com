@@ -4,4 +4,6 @@ Homestead.yaml
 Homestead.json
 .env
 .idea
+.vagrant
+Vagrantfile
 
